@@ -1,4 +1,4 @@
-# 📐 An Introduction to Fractal Geometry: the Mandelbrot Set
+# 📐 An Introduction to Fractal Geometry, Illustrated by the Mandelbrot Set
 
 In 1990 I wrote my *Facharbeit* (a research paper in the advanced maths course, *Leistungskurs*)
 on fractal geometry, at the Integrierte Gesamtschule Ernst Bloch in Ludwigshafen am Rhein. The
