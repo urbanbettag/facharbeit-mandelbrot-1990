@@ -17,11 +17,15 @@ do by hand or with a few lines of Python.
 
 ## 📄 Read it
 
-📘 [**English edition (PDF)**](facharbeit-mandelbrot-en.pdf) - *New edition 2026*, translated from the German
+**The 1990 paper, reworked** (chapters 1–4 and the appendix)
 
-📗 [**Deutsche Fassung (PDF)**](facharbeit-mandelbrot.pdf) - *Neufassung 2026*
+📘 [**English (PDF)**](facharbeit-1990-en.pdf) · 📗 [**Deutsch (PDF)**](facharbeit-1990-de.pdf)
 
-Both are also attached to the latest [release](../../releases/latest).
+**The 2026 edition with five new chapters** (Part I plus Part II)
+
+📘 [**English (PDF)**](facharbeit-2026-en.pdf) · 📗 [**Deutsch (PDF)**](facharbeit-2026-de.pdf)
+
+All four are also attached to the latest [release](../../releases/latest).
 
 ---
 
