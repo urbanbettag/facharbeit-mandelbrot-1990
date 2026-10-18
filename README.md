@@ -12,7 +12,11 @@ corrected edition with redrawn and recomputed figures.
 
 ## 📄 Read it
 
-📗 [**facharbeit-mandelbrot.pdf**](facharbeit-mandelbrot.pdf) - *Neufassung 2026*, in German (also under [Releases](../../releases/latest))
+📘 [**English edition (PDF)**](facharbeit-mandelbrot-en.pdf) - *New edition 2026*, translated from the German
+
+📗 [**Deutsche Fassung (PDF)**](facharbeit-mandelbrot.pdf) - *Neufassung 2026*
+
+Both are also attached to the latest [release](../../releases/latest).
 
 ---
 
@@ -49,5 +53,5 @@ source is printed in the appendix.
 
 Built with LaTeX (KOMA-Script, TikZ, biblatex) and a few Python scripts for the fractal images.
 ChatGPT produced the first draft of the 2026 edition and the recomputed images; Claude helped
-transcribe the scans, check the 1990 sources against library catalogues, redraw figures in TikZ
+translate it into English, transcribe the scans, check the 1990 sources against library catalogues, redraw figures in TikZ
 and review the new edition against the original. The judgement calls stayed mine.
