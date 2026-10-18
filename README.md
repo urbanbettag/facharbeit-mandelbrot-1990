@@ -15,7 +15,8 @@ for word, checked the sources, and produced two editions.
 - **The 1990 paper, reworked**: my original four chapters, corrected and with redrawn and
   recomputed figures. This answers the first question.
 - **The 2026 edition**: the same paper plus five new chapters that carry it forward to today's
-  research, written for secondary-school students. Each chapter builds on the ones before and ends
+  research, written for secondary-school students in the same voice as the original. Each chapter
+  builds on the ones before and ends
   with exercises you can do by hand or with a few lines of Python. This answers the second question.
 
 ---
