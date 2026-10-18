@@ -4,14 +4,19 @@ In 1990 I wrote my *Facharbeit* (a research paper in the advanced maths course, 
 on fractal geometry, at the Integrierte Gesamtschule Ernst Bloch in Ludwigshafen am Rhein. The
 pictures came from a Pascal program I wrote for an Atari ST, some of them after hours of computing.
 
-In 2026 I took the binder off the shelf and digitised it, with AI as a co-worker: photographed
-every page, transcribed the original word for word, checked the sources, and produced a new,
-corrected edition with redrawn and recomputed figures.
+In 2026 I took the binder off the shelf, curious about two things. First: what could I have done
+better? My teacher's red pen had marked plenty, and some of my 1990 statements turn out to be wrong.
+Second: what has happened in the 36 years since? In 1990 several of the questions the paper touches
+were still open, and some of them have since been answered.
 
-**Version 2.0** adds five new chapters that carry the 1990 paper forward to today's research.
-They are written to bring mathematics alive for secondary-school students: each chapter builds on
-the ones before, starts with *What you already know* and ends with *Try it yourself* tasks you can
-do by hand or with a few lines of Python.
+So I digitised it, with AI as a co-worker: photographed every page, transcribed the original word
+for word, checked the sources, and produced two editions.
+
+- **The 1990 paper, reworked**: my original four chapters, corrected and with redrawn and
+  recomputed figures. This answers the first question.
+- **The 2026 edition**: the same paper plus five new chapters that carry it forward to today's
+  research, written for secondary-school students. Each chapter builds on the ones before and ends
+  with exercises you can do by hand or with a few lines of Python. This answers the second question.
 
 ---
 
